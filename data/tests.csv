@@ -1,0 +1,19 @@
+test_id,symptom_id,test_name,description,positive_indication
+1,1,Empty Can Test,Raise arm 30° forward and inward with thumb down. Pain indicates possible issue.,supraspinatus_problem
+2,1,Hawkins Test,Flex elbow 90° raise arm to 90° rotate arm inward. Pain indicates impingement.,impingement_syndrome
+3,1,Cross-Body Test,Bring arm across body horizontally. Pain indicates AC joint issue.,ac_joint_problem
+4,1,Neer Test,Raise arm forward to 180° with thumb down. Pain indicates impingement.,impingement_syndrome
+5,1,Drop Arm Test,Slowly lower arm from 90° abduction. Inability indicates rotator cuff tear.,rotator_cuff_tear
+6,1,Speed's Test,Resist forward flexion with palm up. Pain indicates biceps tendonitis.,biceps_tendonitis
+7,1,Yergason's Test,Resist supination and external rotation. Pain indicates biceps tendonitis.,biceps_tendonitis
+8,1,Apprehension Test,Abduct and externally rotate arm. Apprehension indicates instability.,shoulder_instability
+9,1,Load and Shift Test,Apply anterior and posterior force to shoulder. Excessive movement indicates instability.,shoulder_instability
+10,1,Lift-off Test,Place hand on back and lift off. Inability indicates subscapularis weakness.,subscapularis_weakness
+11,4,Lachman Test,Flex knee 20-30° and pull tibia forward. Excessive movement indicates ACL injury.,acl_injury
+12,4,Anterior Drawer Test,Flex knee 90° and pull tibia forward. Excessive movement indicates ACL injury.,acl_injury
+13,4,Posterior Drawer Test,Flex knee 90° and push tibia backward. Excessive movement indicates PCL injury.,pcl_injury
+14,4,McMurray Test,"Flex knee, rotate tibia, and extend knee. Pain or click indicates meniscus tear.",meniscus_tear
+15,4,Varus Stress Test,Apply lateral force to knee. Pain or laxity indicates LCL injury.,lcl_injury
+16,4,Valgus Stress Test,Apply medial force to knee. Pain or laxity indicates MCL injury.,mcl_injury
+17,4,Patellar Grind Test,Press patella and contract quadriceps. Pain indicates patellofemoral syndrome.,patellofemoral_syndrome
+18,4,Apley's Compression Test,Compress and rotate tibia. Pain indicates meniscus tear.,meniscus_tear 
